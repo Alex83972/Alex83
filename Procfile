@@ -1,1 +1,1 @@
-worker: python start_red2.bat
+worker: python launcher.py
